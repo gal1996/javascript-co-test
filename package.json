@@ -1,0 +1,22 @@
+{
+  "name": "co_tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise_without_co.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochosan/javascript-co-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochosan/javascript-co-test/issues"
+  },
+  "homepage": "https://github.com/mochosan/javascript-co-test#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
